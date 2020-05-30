@@ -1,0 +1,9 @@
+[package]
+name = "stack-data-structure-introduction-vec-impl"
+version = "0.1.0"
+authors = ["Goutham Krishna K V <gauthamkrishna9991@live.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
